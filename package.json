@@ -20,7 +20,7 @@
     "eslint-config-airbnb-base": "^15.0.0"
   },
   "scripts": {
-    "dev": "ts-node-dev --respawn --transpile-only merchant/index.ts"
+    "dev:merchant": "ts-node-dev --respawn --transpile-only merchant/index.ts"
   },
   "config": {
     "commitizen": {
